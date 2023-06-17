@@ -13,3 +13,4 @@ The graphics of the game are bright and colorful, and the soundtrack creates the
 
 
 Space Fighter is a game for those who love action, shooters and space adventure. Join the battle and become a real hero of the space age!
+ 
